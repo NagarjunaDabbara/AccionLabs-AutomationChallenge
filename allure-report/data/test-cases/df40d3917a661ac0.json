@@ -1,0 +1,62 @@
+{
+  "uid" : "df40d3917a661ac0",
+  "name" : "checks if an error is shown when user tries to composeMail",
+  "fullName" : "Testing functionalities of login page.checks if an error is shown when user tries to composeMail",
+  "historyId" : "5e56d7e5d18a97c844b7ac3d22e33ba",
+  "time" : {
+    "start" : 1655148742733,
+    "stop" : 1655148744596,
+    "duration" : 1863
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testMethod",
+    "value" : "checks if an error is shown when user tries to composeMail"
+  }, {
+    "name" : "package",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df40d3917a661ac0.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

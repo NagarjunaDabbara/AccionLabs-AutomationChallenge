@@ -1,0 +1,62 @@
+{
+  "uid" : "d0927068597bbbf4",
+  "name" : "checks if an error is shown when user tries to click on QuickSettingsButton",
+  "fullName" : "Testing functionalities of login page.checks if an error is shown when user tries to click on QuickSettingsButton",
+  "historyId" : "1b2268103802d0dac370e407c8fd2d47",
+  "time" : {
+    "start" : 1655148737917,
+    "stop" : 1655148739873,
+    "duration" : 1956
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testMethod",
+    "value" : "checks if an error is shown when user tries to click on QuickSettingsButton"
+  }, {
+    "name" : "package",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0927068597bbbf4.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "fdc51c15fb27c722",
+  "name" : "checks if an error is shown when user tries to click on SearchMailButton",
+  "time" : {
+    "start" : 1655148739874,
+    "stop" : 1655148742730,
+    "duration" : 2856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0927068597bbbf4",
+  "name" : "checks if an error is shown when user tries to click on QuickSettingsButton",
+  "time" : {
+    "start" : 1655148737917,
+    "stop" : 1655148739873,
+    "duration" : 1956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5523dbacacc8dbb0",
+  "name" : "checks if an error is shown when user tries to login with invalid credentials",
+  "time" : {
+    "start" : 1655148726688,
+    "stop" : 1655148737917,
+    "duration" : 11229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df40d3917a661ac0",
+  "name" : "checks if an error is shown when user tries to composeMail",
+  "time" : {
+    "start" : 1655148742733,
+    "stop" : 1655148744596,
+    "duration" : 1863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

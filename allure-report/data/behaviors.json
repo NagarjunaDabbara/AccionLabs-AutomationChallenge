@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "checks if an error is shown when user tries to login with invalid credentials",
+    "uid" : "5523dbacacc8dbb0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1655148726688,
+      "stop" : 1655148737917,
+      "duration" : 11229
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-102.0.5005.115" ]
+  }, {
+    "name" : "checks if an error is shown when user tries to click on QuickSettingsButton",
+    "uid" : "d0927068597bbbf4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1655148737917,
+      "stop" : 1655148739873,
+      "duration" : 1956
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-102.0.5005.115" ]
+  }, {
+    "name" : "checks if an error is shown when user tries to click on SearchMailButton",
+    "uid" : "fdc51c15fb27c722",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1655148739874,
+      "stop" : 1655148742730,
+      "duration" : 2856
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-102.0.5005.115" ]
+  }, {
+    "name" : "checks if an error is shown when user tries to composeMail",
+    "uid" : "df40d3917a661ac0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1655148742733,
+      "stop" : 1655148744596,
+      "duration" : 1863
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-102.0.5005.115" ]
+  } ]
+}

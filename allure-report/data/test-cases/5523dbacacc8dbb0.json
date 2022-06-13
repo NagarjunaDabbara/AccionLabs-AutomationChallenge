@@ -1,0 +1,62 @@
+{
+  "uid" : "5523dbacacc8dbb0",
+  "name" : "checks if an error is shown when user tries to login with invalid credentials",
+  "fullName" : "Testing functionalities of login page.checks if an error is shown when user tries to login with invalid credentials",
+  "historyId" : "58d252cd8888d1f174f5c29d7cf54629",
+  "time" : {
+    "start" : 1655148726688,
+    "stop" : 1655148737917,
+    "duration" : 11229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "testMethod",
+    "value" : "checks if an error is shown when user tries to login with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Testing functionalities of login page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5523dbacacc8dbb0.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}
